@@ -5,7 +5,7 @@
     const uploadData = async () => {
     console.log(`Data:`, data);
     loading = true;
-    const result = await fetch(`https://mistral-be:8000/files/text`, {
+    const result = await fetch(`https://mistral-be.thebeachhut.dev/files/text`, {
       method: `POST`,
       mode: 'cors',
       headers: {
