@@ -5,7 +5,7 @@
   const getAnswer = async () => {
     console.log(`Question:`, question);
     loading = true;
-    const result = await fetch(`http://192.168.1.75:8000/chat/question`, {
+    const result = await fetch(`https://mistral-be/chat/question`, {
       method: `POST`,
       mode: 'cors',
       headers: {
