@@ -24,7 +24,7 @@
   <div class="sm:mx-auto sm:w-full sm:max-w-md">
     <img class="mx-auto h-10 w-auto" src="/mistral-logo.png" alt="Your Company">
     <div class="flex justify-center space-x-4 m-auto">
-      <h2 class="mt-6 text-center text-2xl/9 font-bold tracking-tight text-gray-900">I Want to </h2>
+      <h2 class="mt-6 text-center text-2xl/9 font-bold tracking-tight text-gray-900">I want to </h2>
       <a href="/app/ask" class="mt-6 text-center text-2xl/9 font-bold tracking-tight underline text-[#FA500F] cursor-pointer">ask a question </a>
       <a href="/app/upload" class="mt-6 text-center text-2xl/9 font-bold tracking-tight text-gray-300">load text </a>
     </div>    
